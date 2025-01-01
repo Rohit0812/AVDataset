@@ -2,7 +2,7 @@
 
 This repository maintains a growing dataset of conversations based on Advaita Vedantic texts. The dataset is designed to provide a conversational format between a **Master (M)** and a **Questioner (Q)** to explore core concepts of Advaita Vedanta philosophy. This repository will be periodically updated with additional conversations as the dataset expands over time. 
 
-**This dataset has been used to finetune a gemma model to understand Advait Vedantic context.**
+**This dataset has been used to finetune a gemma model to make it learn Advait Vedantic context.**
 
 ## Dataset Overview
 
